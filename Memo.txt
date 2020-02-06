@@ -1,0 +1,27 @@
+To: Dr. Hayes
+From: Brian Bruns
+Subject: Github memo
+Date: 02/06/2020
+
+I didn't learn a ton from the assignment, as I had worked with a configuration management 
+system a lot through my co-op, but it put into words and explained a lot of 
+practices I had seen and been using without knowing it. The biggest of which is learning 
+about the terminology used within configuration management systems. Something like change
+control was a concept I understood and tried to follow because it was valuable, but
+never got a clear explanation as to why.
+
+I had never really used Github a bunch prior, as my co-op used TFS, but the contribution page
+seemed to be incredibly helpful for tracking progress. I had seen it before on the 
+Internet where people talk about project burnout and how much their productivity
+dropped with their passion fading, but learning specifically how it was tracked and how 
+teams use it was nice to learn. Another thing I learned that was actually new to me
+was versioning in the filenames of your files. We used a git repository through TFS, and 
+we changed version numbers on releases, but not within files. We typically tracked different 
+versions through branching off from the master branch and other software that tracked
+changes throughout the program.
+
+Overall, configuration management is really important when there's one person working on the
+project, but especially so when there's multiple. Being able to have accountability
+within software development is crucial. Just being able to learn about who wrote what,
+and being able to ask questions about their thought process is invaluable to your own understanding
+of the functionality of what you're working on.
